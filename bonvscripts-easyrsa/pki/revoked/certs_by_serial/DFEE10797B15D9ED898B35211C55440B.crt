@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            df:ee:10:79:7b:15:d9:ed:89:8b:35:21:1c:55:44:0b
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=PH, ST=NCR, L=Manila, O=BonvScripts, OU=https://github.com/Bonveio/BonvScripts, CN=Bonveio/emailAddress=bonveiochan@gmail.com
+        Validity
+            Not Before: May 19 05:12:21 2020 GMT
+            Not After : Oct  4 05:12:21 2047 GMT
+        Subject: C=PH, ST=NCR, L=Manila, O=BonvScripts, OU=https://github.com/Bonveio/BonvScripts, CN=server/emailAddress=bonveiochan@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (1024 bit)
+                Modulus:
+                    00:bb:f8:32:72:6a:c0:02:1e:d5:c9:f9:ef:dc:21:
+                    77:41:c3:6a:b2:8d:99:c5:a1:3f:78:fd:aa:b0:5d:
+                    6c:18:4e:39:c4:da:df:0f:56:ea:d8:b7:fe:4d:38:
+                    50:2d:fc:79:60:6b:9d:1a:b2:fa:2d:81:0f:2f:2c:
+                    58:d1:2a:11:e4:d9:2a:28:bd:b6:82:39:7a:70:89:
+                    4e:df:cd:1c:7d:09:3c:fa:e3:de:e8:f9:9d:e5:15:
+                    f6:1f:5d:92:cd:78:f4:04:e0:83:4a:e8:7f:36:49:
+                    40:bb:8d:8f:69:d9:fa:b3:f1:28:7e:a1:e4:39:20:
+                    f8:7c:7a:86:78:70:a3:15:6b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                46:FC:10:2F:71:06:3E:A1:01:14:5F:9B:71:A2:11:5E:3A:6C:56:72
+            X509v3 Authority Key Identifier: 
+                keyid:18:6F:79:D3:C4:29:D1:34:4D:E4:BC:5E:06:5E:AA:E1:FE:E1:0E:BD
+                DirName:/C=PH/ST=NCR/L=Manila/O=BonvScripts/OU=https://github.com/Bonveio/BonvScripts/CN=Bonveio/emailAddress=bonveiochan@gmail.com
+                serial:48:63:7B:4F:D5:E7:3E:6B:D3:7A:D3:11:80:0C:B4:A8:D9:BB:FB:DE
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:server
+    Signature Algorithm: sha256WithRSAEncryption
+         3a:ce:e3:4a:70:e5:a5:dd:85:3e:1d:d8:7e:10:38:0d:86:1c:
+         8b:52:62:c9:fb:93:d8:6c:01:a9:4f:a2:c5:bb:7c:49:82:68:
+         3a:e2:c8:83:9d:92:41:4e:2f:21:e4:5d:c6:59:60:10:da:94:
+         9a:90:a6:11:8f:48:82:e6:4d:0e:a9:92:7e:07:0e:db:3a:5f:
+         53:df:fc:c9:ef:ec:91:bb:d6:e5:cf:d1:8c:03:90:ab:7a:56:
+         2e:6e:35:e2:de:9f:88:30:3d:f4:fc:4b:2f:95:c7:95:f5:0c:
+         cd:8b:e3:d2:3b:4a:6b:48:ef:ab:82:e6:cf:b4:94:01:6c:b3:
+         76:7e
+-----BEGIN CERTIFICATE-----
+MIIEMDCCA5mgAwIBAgIRAN/uEHl7FdntiYs1IRxVRAswDQYJKoZIhvcNAQELBQAw
+gasxCzAJBgNVBAYTAlBIMQwwCgYDVQQIDANOQ1IxDzANBgNVBAcMBk1hbmlsYTEU
+MBIGA1UECgwLQm9udlNjcmlwdHMxLzAtBgNVBAsMJmh0dHBzOi8vZ2l0aHViLmNv
+bS9Cb252ZWlvL0JvbnZTY3JpcHRzMRAwDgYDVQQDDAdCb252ZWlvMSQwIgYJKoZI
+hvcNAQkBFhVib252ZWlvY2hhbkBnbWFpbC5jb20wHhcNMjAwNTE5MDUxMjIxWhcN
+NDcxMDA0MDUxMjIxWjCBqjELMAkGA1UEBhMCUEgxDDAKBgNVBAgMA05DUjEPMA0G
+A1UEBwwGTWFuaWxhMRQwEgYDVQQKDAtCb252U2NyaXB0czEvMC0GA1UECwwmaHR0
+cHM6Ly9naXRodWIuY29tL0JvbnZlaW8vQm9udlNjcmlwdHMxDzANBgNVBAMMBnNl
+cnZlcjEkMCIGCSqGSIb3DQEJARYVYm9udmVpb2NoYW5AZ21haWwuY29tMIGfMA0G
+CSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7+DJyasACHtXJ+e/cIXdBw2qyjZnFoT94
+/aqwXWwYTjnE2t8PVurYt/5NOFAt/Hlga50asvotgQ8vLFjRKhHk2SoovbaCOXpw
+iU7fzRx9CTz6497o+Z3lFfYfXZLNePQE4INK6H82SUC7jY9p2fqz8Sh+oeQ5IPh8
+eoZ4cKMVawIDAQABo4IBUTCCAU0wCQYDVR0TBAIwADAdBgNVHQ4EFgQURvwQL3EG
+PqEBFF+bcaIRXjpsVnIwgesGA1UdIwSB4zCB4IAUGG9508Qp0TRN5LxeBl6q4f7h
+Dr2hgbGkga4wgasxCzAJBgNVBAYTAlBIMQwwCgYDVQQIDANOQ1IxDzANBgNVBAcM
+Bk1hbmlsYTEUMBIGA1UECgwLQm9udlNjcmlwdHMxLzAtBgNVBAsMJmh0dHBzOi8v
+Z2l0aHViLmNvbS9Cb252ZWlvL0JvbnZTY3JpcHRzMRAwDgYDVQQDDAdCb252ZWlv
+MSQwIgYJKoZIhvcNAQkBFhVib252ZWlvY2hhbkBnbWFpbC5jb22CFEhje0/V5z5r
+03rTEYAMtKjZu/veMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDAR
+BgNVHREECjAIggZzZXJ2ZXIwDQYJKoZIhvcNAQELBQADgYEAOs7jSnDlpd2FPh3Y
+fhA4DYYci1JiyfuT2GwBqU+ixbt8SYJoOuLIg52SQU4vIeRdxllgENqUmpCmEY9I
+guZNDqmSfgcO2zpfU9/8ye/skbvW5c/RjAOQq3pWLm414t6fiDA99PxLL5XHlfUM
+zYvj0jtKa0jvq4Lmz7SUAWyzdn4=
+-----END CERTIFICATE-----
